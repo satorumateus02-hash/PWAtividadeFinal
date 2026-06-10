@@ -1,0 +1,13 @@
+/* Customização da Barra de Navegação */
+.navbar-custom {
+    background-color: #831C91 !important;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #ffffff !important;
+}
+
+/* Customização do Rodapé Básica com a cor solicitada */
+.footer-custom {
+    background-color: #B3BFFF !important;
+}
